@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Fluid"
         mc:Ignorable="d"
-        Title="Fluid" Height="900" Width="1600">
+        Title="Fluid" Height="810" Width="1440">
 
     <Grid>
     </Grid>
